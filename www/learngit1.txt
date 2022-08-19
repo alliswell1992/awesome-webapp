@@ -5,7 +5,7 @@ text branch managiment
 text branch1
 text branch & conflict
 text branch and conflict
-main text dev3  text conflict and dev3
+main text dev3  text conflict and dev3 ----------------------
 
 
 
