@@ -1,6 +1,6 @@
 create a new branch is quik
 
-create a new branch is quick & simple
+create a new branch is quick & simple ------------------
 text branch managiment
 text branch1
 text branch & conflict
