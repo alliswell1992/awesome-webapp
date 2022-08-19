@@ -1,2 +1,3 @@
 create a new branch is quik
-branch is simple & quick
+<<<<<<< HEAD
+create a new branch is quick & simple
