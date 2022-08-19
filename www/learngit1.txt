@@ -18,7 +18,4 @@ dev text stash
 dev text stash1
 >>>>>>> Stashed changes
 >>>>>>> dev
-
-
-
-
+remote branch dev
