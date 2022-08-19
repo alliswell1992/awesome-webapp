@@ -1,5 +1,5 @@
 create a new branch is quik
-<<<<<<< HEAD
+
 create a new branch is quick & simple
 text branch managiment
 text branch1
